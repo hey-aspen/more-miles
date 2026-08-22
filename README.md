@@ -1,13 +1,13 @@
 # More Miles website
 
-Official product, privacy and support website for More Miles.
+Production website for [more-miles.space](https://more-miles.space), deployed with GitHub Pages from the repository root.
 
-- Production: https://more-miles.space
-- App Store: https://apps.apple.com/my/app/more-miles/id6800369244
-- Support: feedback@run-trace.com
+The root contains the production build. Privacy and Support keep stable public URLs and redirect into the matching pages in the website experience.
 
-- `/` — product landing page
-- `/privacy/` — privacy policy
-- `/support/` — support page
+## Public routes
 
-The site is a static GitHub Pages deployment. The home page uses GSAP for progressive motion enhancement and remains readable when scripts or motion are disabled.
+- `/`
+- `/privacy/`
+- `/support/`
+
+© 2026 Aspen Choong.
